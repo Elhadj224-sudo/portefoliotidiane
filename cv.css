@@ -1,0 +1,86 @@
+.perso{
+    border: 2px solid black;
+    height: 760px;
+    width: 20%;
+    background-color: rgb(67, 67, 117);
+    padding: 4px;
+    color: white;
+    border-right: none;
+}
+.cursus{
+    border: 2px solid black;
+    height: 770px;
+    width: 40%;
+    border-left: none;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+img{
+    border-radius: 100%;
+    height: 140px;
+    width: 140px;
+    margin-top: 4px;
+    margin-left: 70px;
+   
+}
+.u{
+   color: white;
+   display: flex;
+   justify-content: left;
+}
+.perso div{
+    width: 100%;
+    height: 2px;   
+    background: white;
+    margin-top: -19px;
+}
+
+.st{
+    color: white;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+.s{
+    color: white;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+.cc{
+    margin-top: -16px;
+}
+.pr{
+    border: 2px solid black;
+    height: 25px;
+    width: 60px;
+    background-color:  rgb(67, 67, 117);
+    color: white;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}
+.exp{
+    border: 2px solid black;
+    height: 25px;
+    width: 230px;
+    background-color:  rgb(67, 67, 117);
+    color: white;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px; 
+}
+h1{
+    margin-left: 10px;
+}
+h2{
+    margin-left: 10px;
+}
+p{
+    margin-left: 5px;
+}
+.hjh{
+    margin-left: 4px;
+}
